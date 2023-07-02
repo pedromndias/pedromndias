@@ -1,10 +1,12 @@
-![-GitHub-333333](https://github.com/pedromndias/pedromndias/assets/59458685/389ec8f1-7175-44a3-b02e-4b133156f0a0)# Hello, there! 👋
+# Hello, there! 👋
 
 I'm [Pedro](https://webpedro.netlify.app/), a passionate web developer based in [Barcelona](https://maps.google.com/?q=Barcelona).
 
 - 🔭 I’m currently working on [Appilime](https://github.com/pedromndias/appilime-client)
 - 🌱 I’m currently learning React and all the MERN stack.
 - 📫 How to reach me: [pedromndias@gmail.com](mailto:pedromndias@gmail.com)
+
+
 
 ## 🚀 Technologies and Tools
 
@@ -22,8 +24,9 @@ I'm [Pedro](https://webpedro.netlify.app/), a passionate web developer based in 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromndias&show_icons=true&theme=radical)
-(https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedromndias&layout=compact&langs_count=8&theme=radical)
+[comment]:<![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedromndias&show_icons=true&theme=radical)>
+
+![Your Github Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedromndias&layout=compact&langs_count=8&theme=radical)
 
 
 ## 🌟 Featured Projects
